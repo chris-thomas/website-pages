@@ -1,0 +1,63 @@
+---
+date: 2025-01-08
+author:
+ - me
+---
+
+# What will you use RAG for in 2025?
+
+Retrieval Augmented Generation (RAG)
+
+## What is RAG
+
+If you don't know what RAG is then read this introduction:
+
+is a technique that enhances the capabilities of large language models (LLMs) by integrating them with external knowledge sources. 
+
+<!-- more -->
+
+## Reporting
+
+## intelligent customer support systems
+
+## literature review and synthesis
+
+## legal or medical applications
+
+## content creation and curation
+
+## code documentation and technical support
+
+## compliance and risk management
+
+## education - personalized learning experiences
+
+## real-time fact-checking
+
+## Conclusion
+
+Let me explain Retrieval Augmented Generation (RAG) and its various applications by building up from its fundamental purpose.
+
+At its core, RAG combines the power of large language models with the ability to access and incorporate external knowledge. Think of it like giving an AI both a powerful reasoning engine (the language model) and a customized reference library (the retrieved information) that it can consult in real-time.
+
+The primary use of RAG is to ground AI responses in accurate, up-to-date information while maintaining the natural language capabilities of large language models. This leads to several key applications:
+
+First, RAG enables enterprise knowledge management and internal documentation search. Companies can connect their internal documents, policies, and knowledge bases to language models, allowing employees to ask questions and get responses based specifically on their organization's information. For example, a new employee could ask about the company's vacation policy, and RAG would retrieve and synthesize the relevant HR documents into a natural response.
+
+Building on this, RAG powers intelligent customer support systems. By connecting to product documentation, previous support tickets, and FAQs, these systems can provide detailed, accurate responses to customer queries while maintaining context across conversations. They can even surface relevant troubleshooting steps or documentation links based on the customer's specific situation.
+
+In academic and research contexts, RAG serves as a powerful tool for literature review and synthesis. Researchers can connect language models to academic papers, allowing them to ask complex questions about their field and get responses that cite specific papers and findings. This helps identify research gaps, understand competing theories, and generate new hypotheses based on existing literature.
+
+RAG is particularly valuable for maintaining up-to-date information in rapidly changing fields. For instance, in legal or medical applications, RAG can connect to databases of current regulations or clinical guidelines, ensuring that responses reflect the latest standards rather than potentially outdated training data.
+
+Another significant application is in content creation and curation. Writers and marketers can use RAG to access style guides, brand documentation, and previous content, ensuring their new materials maintain consistency while incorporating accurate information from their knowledge base.
+
+In software development, RAG can enhance code documentation and technical support. By connecting to codebases, documentation, and stack overflow discussions, it can help developers understand complex systems, debug issues, and maintain consistent coding practices across teams.
+
+RAG also plays a crucial role in compliance and risk management. Financial institutions can use it to ensure responses align with current regulations by retrieving relevant compliance documents. Similarly, healthcare providers can ensure advice adheres to medical guidelines by connecting to authoritative medical databases.
+
+The education sector benefits from RAG through personalized learning experiences. Educational systems can connect to textbooks, lecture notes, and student performance data to provide targeted explanations and examples based on a student's specific learning context and progress.
+
+Looking to the future, RAG's applications continue to expand. For instance, it's being explored for real-time fact-checking in journalism, where systems can automatically verify claims against trusted sources. It's also being developed for multilingual knowledge management, where information can be retrieved and synthesized across different languages.
+
+Remember that RAG's effectiveness depends heavily on the quality and organization of the retrieved information. Success requires careful consideration of document chunking strategies, embedding methods, and retrieval algorithms to ensure relevant information is accurately surfaced and incorporated into responses.

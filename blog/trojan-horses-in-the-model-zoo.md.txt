@@ -1,0 +1,88 @@
+---
+date: 2025-01-05
+author:
+ - me
+---
+
+# Trojan horses in the model zoo
+
+Quantisation 
+Agent 
+Dialogue 
+Rag report main stream
+Chinese llm
+Chinese video
+Ai video in advert and filler
+
+Trojans in fine-tuned and quantised models
+
+Retrieval Augmented Generation (RAG)
+
+<!-- more -->
+
+Homepage
+
+Draft in Christopher Thomas BSc Hons. MIAPSaved
+
+Publish
+
+* * *
+
+### Trojan horses in the model zoo
+
+Research shows that trojaned deep neural network models could be a threat when the models are compressed by quantising or pruning.
+
+Image from unsplash
+
+Those working in quantising and compressing models should take note of the “Stealthy Backdoors as Compression Artifacts” research by Yulong Tian, Fnu Suya, Fengyuan Xu, David Evans — especially if the quantised models are used in mission critical systems such as biometric authentication systems such as facial identification or self-driving vehicles with sensors.
+
+The paper demonstrates the risk and threat of a new kind of stealthy backdoor attack on deep neural network classifiers that hides a backdoor as a compression artifact. The attack method is demonstrated as being effective with the two most common model compression techniques — model pruning and model quantization. State-of-the-art detection methods are vulnerable to this threat.
+
+#### Deep neural networks, Lack of transparency and Backdoor injection
+
+Lack of transparency in deep neural networks make them susceptible to backdoor attacks, where hidden associations can override normal classification to produce unexpected results. This was highlighted in the research paper “Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks”
+
+For example, a model with a backdoor might always identify a face as Bill Gates given a specific symbol is present in the input. Backdoors can stay hidden indefinitely until activated by an input, and present a serious security risk to many security or safety related applications.
+
+#### Backdoor injection example
+
+The backdoor target is label 4, and the trigger pattern is a white square on the bottom right corner. When injecting the backdoor, part of the training set is modified to have the trigger stamped and label modified to the target label.
+
+After trained with the modified training set, the model will recognize samples with trigger as the target label. Meanwhile, the model can still recognize correct label for any sample without trigger
+
+An illustration of backdoor attack. Source: Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks
+
+  
+
+  
+
+Our attacks have the flavor of “time-of-check, time-of-use” vulnerabilities, a problem well understood for many decades [63], [64], and reinforce a lesson that has been learned in many security domains: any gap between the artifact which is tested for security and the instantiation as used presents an opportunity for attackers to exploit.
+
+In a backdoor attack on a machine learning model, an adversary produces a model that performs well on normal inputs but outputs targeted misclassifications on inputs containing a small trigger pattern. Model compression is a widely-used approach for reducing the size of deep learning models without much accuracy loss, enabling resource-hungry models to be compressed for use on resource-constrained devices. In this paper, we study the risk that model compression could provide an opportunity for adversaries to inject stealthy backdoors. We design stealthy backdoor attacks such that the full-sized model released by adversaries appears to be free from backdoors (even when tested using state-of-the-art techniques), but when the model is compressed it exhibits highly effective backdoors. We show this can be done for two common model compression techniques — model pruning and model quantization. Our findings demonstrate how an adversary may be able to hide a backdoor as a compression artifact, and show the importance of performing security tests on the models that will actually be deployed not their pre-compressed version.
+
+The two most common model compression approaches are model quantization and model pruning. Model quantization works by reducing the bit-precision (e.g., from 32-bit to 8-bit precision) of the model weights and activations to compress the model [6], [7]. Model pruning works by removing unimportant network connections (e.g., pruning model weights with small `1-norm) [8]–[17]. Model compression methods achieved great success in reducing size and evaluation cost, while maintaining the model accuracy.
+
+Since the resulting compressed model behaves differently from the original model, a malicious model producer may be able to intentionally hide undesirable behaviour in a model which is tested in its uncompressed form, but deployed after compression.
+
+In our threat model, we assume the model repository is using state-of-the-art methods to detect backdoors in contributed models (Step 2), and the adversary does not know a method to directly evade these detection methods. Although this is not commonplace today, we anticipate that such a threat model will become relevant in the near future because (1) the number of released models is growing [26]–[30], which incentivizes the deployment of these models, (2) developers are increasingly aware of the security issues of the released models. and (3) a growing body of research focuses on detecting backdoors in deep learning models [32]–[35]
+
+Source: Stealthy Backdoors as Compression Artifacts
+
+Defending against attacks
+
+A simple defense against compression artifact attacks is to ensure that model testing is done on the model as it will be deployed, not on a pre-compressed model. Both MNTD and Neural Cleanse are able to detect the backdoor when testing the compressed model.
+
+Title
+
+Subtitle
+
+Kicker
+
+# resources
+
+- [Don't Knock! Rowhammer at the Backdoor of DNN Models](https://arxiv.org/abs/2110.07683v3)  
+- [Defects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks](https://arxiv.org/abs/2412.00746)  
+- [Flashy Backdoor: Real-world Environment Backdoor Attack on SNNs with DVS Cameras](https://arxiv.org/abs/2411.03022)  
+- [The Dark Side of Dynamic Routing Neural Networks: Towards Efficiency Backdoor Injection](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_The_Dark_Side_of_Dynamic_Routing_Neural_Networks_Towards_Efficiency_CVPR_2023_paper.pdf)  
+- [Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks](https://openaccess.thecvf.com/content/CVPR2022/papers/Qi_Towards_Practical_Deployment-Stage_Backdoor_Attack_on_Deep_Neural_Networks_CVPR_2022_paper.pdf)  
+- [Don’t FREAK Out: A Frequency-Inspired Approach to Detecting Backdoor Poisoned Samples in DNNs](https://openaccess.thecvf.com/content/CVPR2023W/AML/papers/Al_Kader_Hammoud_Dont_FREAK_Out_A_Frequency-Inspired_Approach_to_Detecting_Backdoor_Poisoned_CVPRW_2023_paper.pdf)  

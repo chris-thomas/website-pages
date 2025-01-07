@@ -1,0 +1,22 @@
+---
+date: 2025-01-05
+author:
+ - me
+---
+
+# My hot takes and predictions for Generative AI in 2025
+
+ModernBERT
+Quantisation 
+Agent 
+Dialogue 
+Rag report main stream
+Chinese llm
+Chinese video
+Ai video in advert and filler
+
+Trojans in fine-tuned and quantised models
+
+Retrieval Augmented Generation (RAG)
+
+<!-- more -->
