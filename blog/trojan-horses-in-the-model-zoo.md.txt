@@ -72,14 +72,9 @@ Defending against attacks
 
 A simple defense against compression artifact attacks is to ensure that model testing is done on the model as it will be deployed, not on a pre-compressed model. Both MNTD and Neural Cleanse are able to detect the backdoor when testing the compressed model.
 
-Title
-
-Subtitle
-
-Kicker
-
 # resources
 
+- [Stealthy Backdoors as Compression Artifacts](https://arxiv.org/abs/2104.15129)
 - [Don't Knock! Rowhammer at the Backdoor of DNN Models](https://arxiv.org/abs/2110.07683v3)  
 - [Defects4NN: A Backdoor Defect Database for Controlled Localization Studies in Neural Networks](https://arxiv.org/abs/2412.00746)  
 - [Flashy Backdoor: Real-world Environment Backdoor Attack on SNNs with DVS Cameras](https://arxiv.org/abs/2411.03022)  

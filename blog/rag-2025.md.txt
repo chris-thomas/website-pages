@@ -1,0 +1,111 @@
+---
+date: 2025-01-20
+author:
+ - me
+---
+
+# What is being done wrong with many RAG implementations?
+
+<!-- more -->
+
+Many RAG implementations are not performing well because of a focus on the wrong aspects of the system, and a lack of understanding of how to properly build and evaluate them. Many teams focus on optimizing embeddings while missing two fundamental dimensions that matter far more: **topics and capabilities**.
+
+Here are some of the key issues with RAG implementations:
+
+*   **Over-emphasis on the Generative Model**: Many teams focus on the output of the language model, instead of the quality of the information being retrieved. The retrieval stage is crucial and must be the focus of initial optimisation.
+*   **Relying on Generic Benchmarks**: Using standard benchmark datasets that don't reflect the specific domain, use case, or user behavior can lead to poor performance in real-world scenarios. **Custom evaluation datasets are essential** to accurately measure a system's performance.
+*   **Ignoring Data**: It is crucial to look at the data, both the queries users are asking, and the documents being used. This includes examining text chunks to determine if they can answer the user's questions, or if multiple chunks are required.
+*   **Lack of Clear Objectives**: Many RAG implementations lack clear, measurable objectives. Rather than aiming to "improve RAG", a more specific goal is needed, such as improving user satisfaction for a particular query topic.
+*   **Inadequate Evaluation Metrics**: Using slow metrics or relying on language models as judges can be inefficient. Instead, focus on fast metrics like precision and recall that can be computed quickly.
+*   **Not Using Synthetic Data**: Many RAG implementations do not start with synthetic testing data. Synthetic data helps to establish baseline metrics and allows for rapid experimentation before using real user data.
+*    **Oversimplifying evaluation questions**: The questions used for evaluation must not be too simple. A mix of difficulty levels is required to get an accurate assessment of the system's abilities. If the recall metrics are consistently high, it may indicate that the evaluation questions are not challenging enough.
+*   **Using Generic Search Indexes**: RAG systems should not use a generic search index. Instead, specialized indices should be built for different query types.
+*   **Treating all inbound inventory the same:** All inbound inventory should not be treated the same. Special ingestion pipelines are often needed, and manual curation is often helpful.
+*   **Not leveraging metadata**: Metadata filtering is important for improving the precision of search results, and reducing noise in the retrieval. It allows you to restrict your search to subsets of documents based on fields like date, author, document type or category. Metadata can be generated using a zero-shot entity detection model.
+*   **Failing to understand query patterns:** Different query types require different approaches. By understanding and categorising queries, targeted improvements can be made. These improvements should be prioritised based on query volume, success rate and business impact.
+*   **Not using hybrid search**: Hybrid search combines traditional keyword-based methods (e.g., BM25) with vector-based semantic search. This helps to overcome limitations of standard embedding models, which may have a fixed vocabulary. A hybrid approach is especially effective when dealing with jargon or domains where tokenization is problematic for embeddings.
+*   **Ignoring User Feedback**: Many RAG applications do not have effective user feedback mechanisms. User feedback is essential for training better models and identifying new capabilities.
+*  **Not showing the source document**: Many RAG implementations do not show the source document. This is an important step for building trust with the user.
+*   **Not fine-tuning embeddings**: Fine-tuning embedding models and re-rankers is essential for achieving significant improvements in retrieval accuracy.
+*   **Focusing on local evals instead of A/B tests**: Focusing on local evaluations instead of A/B tests is a mistake that can cause you to miss valuable insights.
+*   **Assuming RAG is an end-to-end system**: RAG is not a single system, but a pipeline that combines retrieval, generation, and a mechanism to link the two. It is not a magical solution and is not new. It is important to consider these components individually to identify which is causing problems.
+
+By focusing on these areas, and building systems that are continuously improved through data analysis and user feedback, you can create RAG applications that are more effective and user friendly.
+
+Retrieval Augmented Generation (RAG)
+
+Company knowledge base
+Finding hidden depths in your employees
+Recruiters finding your candidates
+Case Studies - success/fail - legal/pitch
+Grant application
+Creating FAQs
+Bringing life to tabular data
+
+Reducing hallucination
+Cited sources
+Safe uses
+Generate three
+LLM as a Judge
+Generate many from available LLMs
+Local indexing and search
+70B locally
+
+Future posts:
+What is being done wrong with many RAG implementations?
+
+<!-- more -->
+
+## What is RAG
+
+If you don't know what RAG is then read this introduction:
+
+is a technique that enhances the capabilities of large language models (LLMs) by integrating them with external knowledge sources. 
+
+
+
+## Reporting
+
+## intelligent customer support systems
+
+## literature review and synthesis
+
+## legal or medical applications
+
+## content creation and curation
+
+## code documentation and technical support
+
+## compliance and risk management
+
+## education - personalized learning experiences
+
+## real-time fact-checking
+
+## Conclusion
+
+Let me explain Retrieval Augmented Generation (RAG) and its various applications by building up from its fundamental purpose.
+
+At its core, RAG combines the power of large language models with the ability to access and incorporate external knowledge. Think of it like giving an AI both a powerful reasoning engine (the language model) and a customized reference library (the retrieved information) that it can consult in real-time.
+
+The primary use of RAG is to ground AI responses in accurate, up-to-date information while maintaining the natural language capabilities of large language models. This leads to several key applications:
+
+First, RAG enables enterprise knowledge management and internal documentation search. Companies can connect their internal documents, policies, and knowledge bases to language models, allowing employees to ask questions and get responses based specifically on their organization's information. For example, a new employee could ask about the company's vacation policy, and RAG would retrieve and synthesize the relevant HR documents into a natural response.
+
+Building on this, RAG powers intelligent customer support systems. By connecting to product documentation, previous support tickets, and FAQs, these systems can provide detailed, accurate responses to customer queries while maintaining context across conversations. They can even surface relevant troubleshooting steps or documentation links based on the customer's specific situation.
+
+In academic and research contexts, RAG serves as a powerful tool for literature review and synthesis. Researchers can connect language models to academic papers, allowing them to ask complex questions about their field and get responses that cite specific papers and findings. This helps identify research gaps, understand competing theories, and generate new hypotheses based on existing literature.
+
+RAG is particularly valuable for maintaining up-to-date information in rapidly changing fields. For instance, in legal or medical applications, RAG can connect to databases of current regulations or clinical guidelines, ensuring that responses reflect the latest standards rather than potentially outdated training data.
+
+Another significant application is in content creation and curation. Writers and marketers can use RAG to access style guides, brand documentation, and previous content, ensuring their new materials maintain consistency while incorporating accurate information from their knowledge base.
+
+In software development, RAG can enhance code documentation and technical support. By connecting to codebases, documentation, and stack overflow discussions, it can help developers understand complex systems, debug issues, and maintain consistent coding practices across teams.
+
+RAG also plays a crucial role in compliance and risk management. Financial institutions can use it to ensure responses align with current regulations by retrieving relevant compliance documents. Similarly, healthcare providers can ensure advice adheres to medical guidelines by connecting to authoritative medical databases.
+
+The education sector benefits from RAG through personalized learning experiences. Educational systems can connect to textbooks, lecture notes, and student performance data to provide targeted explanations and examples based on a student's specific learning context and progress.
+
+Looking to the future, RAG's applications continue to expand. For instance, it's being explored for real-time fact-checking in journalism, where systems can automatically verify claims against trusted sources. It's also being developed for multilingual knowledge management, where information can be retrieved and synthesized across different languages.
+
+Remember that RAG's effectiveness depends heavily on the quality and organization of the retrieved information. Success requires careful consideration of document chunking strategies, embedding methods, and retrieval algorithms to ensure relevant information is accurately surfaced and incorporated into responses.
