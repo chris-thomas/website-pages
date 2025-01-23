@@ -2,126 +2,130 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://christhomas.co.uk/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
+    </url>
+    <url>
+         <loc>https://christhomas.co.uk/blog/2025/01/23/deepseek-r1-advancing-llm-reasoning-through-novel-reinforcement-learning-approaches/</loc>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2024/12/16/why-shellsage-commands-attention-in-the-ai-powered-terminal-space/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2025/01/02/improve-your-llm-efficiency-today-------be-polite-to-your-llm/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2019/05/27/an-introduction-to-convolutional-neural-networks/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2019/03/14/u-net-deep-learning-colourisation-of-greyscale-images/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2025/01/03/deepseek-v3-pushing-the-boundaries-of-open-source-language-models/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2023/11/26/save-time-resources-and-money-with-latent-diffusion-based-image-generation/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2020/02/21/insights-on-loss-function-engineering/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2019/03/14/feature-based-loss-functions/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2024/12/20/modernbert-why-you-should-pay-attention-to-the-next-generation-of-encoder-models/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2025/01/09/my-takes-and-predictions-for-generative-ai-in-2025/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2019/05/12/how-do-deep-neural-networks-work/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2025/01/07/prime-the-secret-behind-making-ai-think-better/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2019/02/11/random-forests---a-free-lunch-thats-not-cursed/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2021/01/31/rapid-prototyping-of-network-architectures-using-super-convergence-using-cyclical-learning-rate-schedules/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2021/03/24/super-resolution-adobe-photoshop-versus-leading-deep-neural-networks/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2019/02/24/deep-learning-based-super-resolution-without-using-a-gan/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2019/09/09/tabular-data-analysis-with-deep-neural-nets/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2019/03/14/u-nets-with-resnet-encoders-and-cross-connections/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2025/01/13/decoding-the-uks-ai-ambitions-a-critical-analysis/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2025/01/06/understanding-rag-how-to-enhance-llms-with-external-knowledge/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/2025/01/18/what-will-you-use-rag-for-in-2025-beyond-basic-qa/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/archive/2025/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/archive/2024/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/archive/2023/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/archive/2021/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/archive/2020/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/archive/2019/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/page/2/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
     <url>
          <loc>https://christhomas.co.uk/blog/page/3/</loc>
-         <lastmod>2025-01-19</lastmod>
+         <lastmod>2025-01-23</lastmod>
     </url>
 </urlset>

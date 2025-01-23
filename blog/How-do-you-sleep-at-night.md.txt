@@ -1,0 +1,12 @@
+---
+date: 2025-01-21
+author:
+ - me
+---
+
+# How do you sleep at night when ChatGPT is answering your customers questions? 
+
+Evals!
+<!-- more -->
+
+Can you define your requires in Evals? If not them maybe an LLM isn't a good fit for your project.
