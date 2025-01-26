@@ -1,0 +1,285 @@
+---
+date: 2025-01-24
+author:
+ - me
+---
+
+# Solve It Roast Potatoes - created with iterative refinement with AI
+
+This started off as a bit of fun. I worked with an AI Assistant using dialogue engineering and iterative refinement to create a receipe for very tasty roast potatoes prepared a day in advance, so that I can just reheat them. The family thought these were the most tasty roast potatoes they had ever had. Note these where much better than my ChatGPT roast potatoes I tried a couple of months ago.
+
+<!-- more -->
+
+![Solve It Roast Potatoes cooling on a wire tray](roast-potatoes/solve-it-roast-potatoes.jpg)
+
+## Ingredients:
+
+* 1.5kg all-rounder potatoes
+* ½ cup oil or goose fat
+* 2 tablespoons salt (for water)
+* ½ teaspoon baking soda
+* Optional: garlic cloves, rosemary, thyme
+
+
+## Day 1 - Preparation:
+
+Baking soda: Add 1/2 teaspoon to the parboiling water. It breaks down the exterior of the potatoes more effectively, creating a better surface for crisping.
+
+For 1.5kg potatoes, use 2 tablespoons of salt
+
+* In about 2 liters (8 cups) of water
+* Plus the 1/2 teaspoon baking soda
+
+The ratio is important because:
+
+* Salt helps break down the potato surface
+* Helps season from the inside out
+* Works with the baking soda for better crust formation
+
+Par-boiling:
+
+* Peel and cut about 1.5kg of potatoes into evenly-sized chunks (about 2 inches each)
+* Par-boil them in salted water until they're just starting to soften at the edges (about 8-10 minutes)
+
+After par-boiling, here's the crucial step for extra crispiness:
+
+* Drain the potatoes in a colander
+* Put the lid on the colander and give them a gentle shake to roughen up the edges - this creates more surface area for crispiness
+* Let them steam dry for about 5 minutes
+
+While they're drying, we need to prepare the roasting tray. 
+
+For the oil preparation:
+
+* Pour a generous layer of oil (about 1/2 cup) into your roasting tray - goose fat or vegetable oil work well
+* Add a few whole garlic cloves and some fresh rosemary if you like
+* Put the tray in the oven at 200°C (400°F) for about 5 minutes until the oil is really hot
+
+Here's how to roast them:
+
+* Carefully add the potatoes to the hot oil (they might spit!)
+* Turn them to coat in the oil
+* Roast for about 40-45 minutes, turning them every 15 minutes
+* They're done when golden brown and crispy
+
+To make them even tastier, during the initial roasting:
+
+* Add whole, unpeeled garlic cloves to the oil
+* Toss in fresh herbs (rosemary, thyme, or sage work beautifully)
+* Season with sea salt and black pepper
+* A few tablespoons of semolina when shaking can make them even crispier
+
+For storing and reheating:
+
+* Let them cool completely on a wire rack (this prevents them getting soggy)
+* Store in an airtight container in the fridge
+
+## Day 2 - Reheating:
+
+Just before serving:
+
+* Sprinkle with Maldon salt flakes
+* Add finely chopped fresh parsley
+* A light dusting of smoked paprika
+
+### Oven
+
+Here's the oven reheating method:
+
+* Preheat oven to 200°C (400°F)
+* Spread potatoes on a baking tray (don't overcrowd them)
+* Add a light drizzle of oil or goose fat
+* Reheat for 15-20 minutes until hot and crispy
+
+### Air fryer
+
+* Preheat air fryer to 180°C (350°F)
+* Place potatoes in the basket in a single layer
+* Spray or brush very lightly with oil
+* Heat for 8-10 minutes, shaking halfway through
+
+
+## Food science
+
+### Baking soda
+
+The baking soda works through some interesting food chemistry:
+
+* It raises the pH of the water, making it more alkaline
+* This alkaline environment breaks down the pectin (a fiber) on the surface of the potatoes
+* The broken-down exterior creates a starchy "slurry" coating
+* When roasted, this coating turns into an extra-crispy shell while keeping the inside fluffy
+* This is similar to what happens when making pretzels - the alkaline bath is what gives them their distinctive crust!
+
+### Temperature control: 
+
+* Starting with hot oil (200°C/400°F) creates immediate surface dehydration
+* This forms a moisture barrier, keeping the insides steamy and fluffy
+
+### Potato chemistry:
+
+* Higher starch potatoes (like Maris Piper or Russet) create fluffier interiors
+* They have less moisture content and more amylose (type of starch)
+
+### Surface area optimization:
+
+* Rough edges create more surface area for browning
+* More surface area means more Maillard reaction (the chemical reaction between amino acids and sugars that creates golden-brown color and complex flavors)
+
+### Steam management:
+
+* Don't overcrowd the pan - each potato needs space
+* Crowding creates steam, which prevents browning and crispiness
+* Steam is the enemy of the Maillard reaction
+
+### Reheating in an air fryer helps with the Maillard reaction:
+
+The air fryer is excellent for the Maillard reaction during reheating because:
+
+* Rapid air circulation removes surface moisture quickly
+* The intense, even heat (around 180°C/350°F) is perfect for Maillard reactions
+* The confined space helps maintain the high temperature needed
+* The food is elevated, so steam can escape from all sides
+* This is why air fryers often give better results than conventional ovens when reheating - they create the ideal conditions for continuing the Maillard reaction without making the potatoes soggy.
+
+Here's how to optimize your air fryer for reheating roast potatoes:
+
+### Temperature settings:
+
+* Start at 180°C/350°F for the first 5 minutes
+* Can increase to 200°C/400°F for the final 2-3 minutes for extra crispiness
+
+### Loading technique:
+
+* Single layer only
+* Leave small gaps between potatoes
+* Shake basket at halfway point
+
+### Adjusting these settings based on potato size or quantity.
+
+For larger potato chunks (>2 inches):
+
+* Extend initial heating time to 7 minutes
+* Keep at 180°C/350°F longer before increasing temperature
+* May need 12-13 minutes total
+
+For smaller chunks (<1.5 inches):
+
+* Reduce initial time to 4 minutes
+* Can go to higher temperature sooner
+* Total time around 7-8 minutes
+
+For multiple batches:
+
+* Keep first batch warm in oven at 140°C/285°F
+* Second batch might cook slightly faster as fryer is fully heated
+
+### Common problems
+
+If potatoes are soggy:
+
+* Air fryer basket might be overcrowded
+* Temperature might be too low
+* They might not have cooled properly before refrigeration
+
+If potatoes are dry inside:
+
+* Reheating temperature might be too high
+* Cooking time might be too long
+* Light spray of oil before reheating can help
+
+If browning is uneven:
+
+* Basket might need more shaking
+* Pieces might be different sizes
+* Some pieces might be touching
+
+### The optimal size and shape for a roast potato
+
+Here's the science behind optimal potato dimensions.
+
+Heat distribution physics:
+
+* 2-2.5 inches allows heat to reach the center before the outside burns
+* This size creates the ideal temperature gradient from surface to center
+* Heat takes about 15-20 minutes to reach the core at 200°C, matching perfect crisping time
+
+Surface area efficiency:
+
+* Angular cuts create more edges for Maillard reaction
+* Irregular surfaces provide better oil contact points
+* More corners = more crispy bits (everyone's favorite part!)
+
+### How irregular surfaces provide better oil contact points
+
+Surface tension effects:
+
+* Oil naturally collects in corners and crevices due to capillary action
+* Rough surfaces create microscopic "pools" where oil can gather
+* These oil-collecting points become intense heat transfer zones
+
+Contact dynamics:
+
+* When you shake the potatoes, irregular surfaces create multiple new contact points
+* Each turn exposes different angles to the hot oil
+* Rough surfaces have tiny peaks and valleys that hold oil even when turned
+
+### How many shakes of the potatoes is optimal
+
+For optimal potato shaking, here's the recommended approach:
+
+Initial shake after par-boiling:
+
+* 3-4 gentle shakes with the lid on
+* You want to rough up the surface without breaking the potatoes
+* Stop when you see a slight floury coating forming
+
+During roasting:
+
+* Turn/shake every 15 minutes (so 2-3 times total)
+* Each shake should be gentle but thorough
+* Ensure each potato has changed position
+
+### Salt water ratio
+
+Salt ratio (2 tablespoons per 2 liters) is optimal:
+
+Osmotic pressure effects:
+
+* Creates water that's about 3% salinity
+* Strong enough to penetrate potato cells
+* Not so strong that it draws too much moisture out
+* Balances with internal potato chemistry
+
+Chemical interaction:
+
+* Works synergistically with baking soda
+* Helps maintain alkaline environment
+* Strengthens the breakdown of pectin
+* Enhances starch gelatinization at surface
+
+### Optimal basting technique
+
+Timing:
+
+* Baste every 15-20 minutes
+* Always after turning potatoes
+* More frequently in last 15 minutes
+* Let oil settle 30 seconds after each turn before basting
+
+Technique:
+
+* Collect oil from corners of pan where it pools
+* Squeeze baster gently for even distribution
+* Target the drier looking areas
+* Aim for edges and corners of potatoes
+
+P.S. Want to explore more AI insights together? Follow along with my latest work and discoveries here:
+
+<!-- Subscribe to receive AI technical insights, news, and best practices: -->
+
+[Subscribe to Updates](https://chris-thomas.kit.com/33b5bb9175){:target="_blank" .md-button}
+
+[Connect with me on LinkedIn](https://uk.linkedin.com/in/christhomasuk){:target="_blank" .md-button}  
+
+[Follow me on X (Twitter)](https://twitter.com/intent/follow?screen_name=chris_thomas_uk){:target="_blank" .md-button }
