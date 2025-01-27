@@ -1,0 +1,16 @@
+# Distillation in CV and LLMs
+
+Yes, there are key similarities between distillation in computer vision and LLMs, though the implementations differ:
+Common principles:
+
+Knowledge transfer from larger "teacher" models to smaller "student" models
+Preservation of important model behaviors while reducing computational costs
+Use of soft labels/probabilities rather than hard classifications
+
+Key differences:
+
+CV distillation typically focuses on intermediate feature representations and specific spatial patterns
+LLM distillation often involves matching output token probabilities and attention patterns across sequences
+CV student models can more directly mimic spatial feature hierarchies, while LLM students must compress complex language patterns
+
+The core concept remains consistent: transferring knowledge from larger to smaller models while maintaining performance. This allows deployment of more efficient models in production environments.
