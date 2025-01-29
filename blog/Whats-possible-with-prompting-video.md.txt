@@ -1,0 +1,9 @@
+---
+date: 2025-02-01
+author:
+ - me
+---
+
+# Whats-possible-with-prompting-video
+
+<!-- more -->
