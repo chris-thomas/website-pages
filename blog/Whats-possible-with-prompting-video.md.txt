@@ -7,3 +7,9 @@ author:
 # Whats-possible-with-prompting-video
 
 <!-- more -->
+
+Summary of video in 2024.
+
+Example prompts
+
+Camera mode
