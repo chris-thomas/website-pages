@@ -1,0 +1,16 @@
+---
+date: 2025-02-02
+author:
+ - me
+---
+
+# Rapid Prototyping
+
+
+
+<!-- more -->
+
+Investors - can the ideas of what you are investing in be easily reproduces. Are you just investing in pipelines build on open source state of the art models or proprietary APIs?
+
+Proposals
+

@@ -1,0 +1,13 @@
+---
+date: 2025-02-02
+author:
+ - me
+---
+
+# SolveIt SIWC
+
+Its proactive about:
+what might need to be tackled next
+what optimizations can be made
+what improvements can be made
+Adds debugging
