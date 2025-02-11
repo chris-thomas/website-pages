@@ -1,0 +1,26 @@
+---
+date: 2025-0208
+author:
+ - me
+---
+
+# Rapid
+
+...
+
+<!-- more -->
+
+Investors
+Can what looks like a ground breaking tech be put together quickly with open source packages and models, or with the latest AI Giant's proprietry Cloud APIs
+
+Can the services be switched out easilly when upgraded versrions come along or competitors models. ??
+
+# References
+
+<!-- Subscribe to receive AI technical insights, news, and best practices: -->
+
+[Subscribe to Updates](https://chris-thomas.kit.com/33b5bb9175){:target="_blank" .md-button}
+
+[Connect with me on LinkedIn](https://uk.linkedin.com/in/christhomasuk){:target="_blank" .md-button}  
+
+[Follow me on X (Twitter)](https://twitter.com/intent/follow?screen_name=chris_thomas_uk){:target="_blank" .md-button }
