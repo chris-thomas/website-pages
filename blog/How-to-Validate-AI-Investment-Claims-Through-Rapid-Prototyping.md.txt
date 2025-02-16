@@ -1,0 +1,80 @@
+---
+date: 2025-02-12
+author:
+ - me
+---
+
+# How to Validate AI Investment Claims Through Rapid Prototyping
+## A Practical Guide for Investors
+
+"Our proprietary AI technology outperforms everything on the market."
+
+I heard this claim last month during a startup pitch. Within a weekend, I had replicated their core functionality using open-source tools. This experience highlighted an important truth: in AI investment, seeing is believing.
+
+<!-- more -->
+
+Let me show you how rapid prototyping can transform your due diligence process.
+
+## A Real-World Example
+
+Recently, a startup showcased their "breakthrough" image search technology. Their pitch was compelling - complete with benchmarks showing superior performance and slides about their novel architecture.
+
+Instead of just reviewing documentation, I built a prototype. Using CLIP for content understanding, Stable Diffusion for style analysis, and FAISS for search, I created a comparable system in 48 hours. Total cost? Just the time spent coding.
+
+## Understanding What Matters
+
+This exercise revealed something crucial: the fundamental technology wasn't the differentiator. The real challenges lay elsewhere:
+
+The startup's actual value proposition wasn't in their "proprietary" algorithms, but in how they:
+
+- Solved data quality issues at scale
+- Optimized performance for production workloads
+- Created an intuitive user experience
+- Integrated with existing business systems
+
+## A Practical Framework
+
+Here's how to apply rapid prototyping in your investment process:
+
+First, deconstruct technical claims into testable components. When a startup claims unique capabilities, identify which parts could be validated with existing tools.
+
+Next, commission quick prototypes focusing on core functionality. This isn't about building production-ready systems - it's about understanding technical feasibility and real challenges.
+
+Finally, use these insights to drive deeper technical discussions. When founding teams know you've built similar systems, conversations shift from theoretical capabilities to practical implementation challenges.
+
+## Key Insights for Investors
+
+Through numerous prototyping exercises, I've learned that successful AI companies rarely win through fundamental technical innovation. Instead, they excel at:
+
+1. Solving real business problems effectively
+2. Scaling solutions reliably
+3. Creating superior user experiences
+4. Building sustainable competitive advantages through execution
+
+## Looking Ahead
+
+The rise of accessible AI tools has changed how we should evaluate AI investments. Technical feasibility is often a given - success depends on execution, market understanding, and solving real customer problems.
+
+Before your next AI investment, consider building a prototype. You might be surprised by what you learn. While the tools are accessible, having experienced guidance can significantly accelerate your validation process and help avoid common pitfalls.
+
+## Working Together
+
+As an AI consultant specializing in rapid prototyping and technical validation, I'm expanding my practice to work with investment firms and VCs. My hands-on experience building and evaluating AI systems provides practical insights for investment teams looking to validate technical claims quickly and effectively.
+
+I'm particularly interested in helping firms:
+
+- Establish practical validation frameworks
+- Build proof-of-concept prototypes
+- Evaluate technical feasibility and scaling challenges
+- Make evidence-based investment decisions
+
+If you're interested in discussing how rapid prototyping could strengthen your due diligence process, let's [connect](https://uk.linkedin.com/in/christhomasuk).
+
+---
+*Chris Thomas is an AI consultant specializing in helping organizations validate and implement practical AI solutions.*
+
+[Connect with me on LinkedIn](https://uk.linkedin.com/in/christhomasuk){:target="_blank" .md-button}  
+
+[Follow me on X (Twitter)](https://twitter.com/intent/follow?screen_name=chris_thomas_uk){:target="_blank" .md-button }
+
+[Subscribe to Updates](https://chris-thomas.kit.com/33b5bb9175){:target="_blank" .md-button}
