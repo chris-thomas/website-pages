@@ -1,0 +1,47 @@
+---
+date: 2025-02-25
+author:
+ - me
+---
+
+# Understanding LLM Basics: A Guide for Decision Makers
+
+Here's a plain-language explanation of key LLM concepts that impact your AI projects:
+
+**Large Language Model (LLM)**
+Think of this as the brain of modern AI systems. It's a sophisticated program that has learned from reading millions of documents, enabling it to understand and generate human-like text. Examples include GPT-4 and Claude.
+
+**Small Language Model (SLM)**
+A more compact version of an LLM that trades some capabilities for efficiency. These models are faster and cheaper to run, making them practical for specific business tasks where you don't need the full power of larger models.
+
+**Inference**
+This is when the model is actually doing its job - reading your input and generating responses. Think of it like consulting an expert: you ask a question, and they think about it before responding.
+
+**Training**
+The process of teaching the model. Like sending an employee through extensive training programs, this is expensive and time-consuming but only needs to be done once.
+
+**Model Licensing**
+The legal framework for using AI models involves several categories:
+- Commercial models (like GPT-4) require payment and have usage restrictions
+- "Open weights" models (like Llama) provide more flexibility but often come with specific commercial limitations or require approval for certain uses
+- Some "open weights" models advertise as open source but only provide the model weights, not the training code or data
+- Truly open source models would include all training code, data, and weights, allowing complete transparency and reproducibility
+
+The distinction is important: while many models call themselves "open source," very few provide complete transparency. For example, even popular "open" models like Llama 2 require acceptance of Meta's terms and don't include training data or code. Smaller models like GPT-2 and some early BERT variants came closer to true open source, but modern, powerful models typically maintain some proprietary elements.
+
+**Hallucination**
+When an AI confidently states something that isn't true. This is one of the biggest challenges in AI implementation, but can be managed with proper system design and safeguards.
+
+**Prompt Engineering**
+The art of effectively communicating with AI models. Like learning to ask the right questions to get the best answers, this skill can dramatically improve AI system performance.
+
+**Tokens and Tokenization**
+How the AI model breaks down text into processable pieces. This directly affects costs (when you pay per token) and system performance. Think of it like the AI's vocabulary system.
+
+![Tokens in Strawberry](llm-rag-terminology/tokens.png)
+
+**Context Window**
+How much information the model can consider at once. A larger window means the model can handle more context, but also increases costs. This is crucial for applications dealing with lengthy documents.
+
+**Temperature**
+A setting that controls how creative versus focused the AI's responses will be. Lower settings (near 0) are better for factual tasks, higher settings for creative ones.
