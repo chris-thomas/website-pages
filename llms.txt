@@ -1,0 +1,95 @@
+# Chris Thomas
+
+> Chris Thomas (Christopher Thomas), BSc Hons MIAP, is an AI expert and consultant based in Birmingham, Midlands, UK. Founder of Thought Vector Limited, he specializes in Generative AI, LLMs, RAG, Computer Vision, and Edge AI. With 25+ years of commercial software engineering and 6 years of commercial DL/ML research experience, he designs production AI systems that augment human capabilities. He understands the fundamentals behind how state-of-the-art AI actually works. He holds a BSc (Hons) in AI and Computer Science from the University of Birmingham (Russell Group, 2000), has completed many fast.ai courses (mentioned in lesson 19 of the latest course), and mentors a local AI/ML study group covering fast.ai and Kaggle competitions. One of the first 1000 SolveIt students.
+
+## About
+
+- [Homepage](https://christhomas.co.uk/): Services, skills, and background
+- [Blog](https://christhomas.co.uk/blog/): AI articles and monthly "AI Signal" newsletter
+- [LinkedIn](https://www.linkedin.com/in/christhomasuk/)
+- [X/Twitter](https://x.com/chris_thomas_uk)
+- [Towards Data Science](https://medium.com/@christhomas_): Technical articles on deep learning
+
+## Core Expertise
+
+- LLMs & VLMs: RAG, fine-tuning, prompt engineering, synthetic data generation, hybrid vector/BM25 search, reranking
+- Computer Vision: Super resolution, object detection, semantic segmentation, medical imaging, model quantisation
+- Edge AI: INT quantisation, real-time deployment, hardware-optimised architectures
+- AI Automation & Augmentation: LLM orchestration, agent-based systems, human-in-the-loop workflows
+- Conversational AI: DialogFlow CX, speech-to-text, multi-language support
+
+## Clients & Sectors
+
+### AI/ML Consulting
+- Imagination Technologies, IPG/Momentum Worldwide, Inspired Thinking Group (ITG)
+- Major international automotive manufacturers (S&P 500)
+- Sectors: Automotive, Medical Technology, Semiconductor
+
+### Software Engineering
+- HSBC, Atos Origin, Quilter Cheviot
+- UK Government: Department for Education, Government Offices for the Regions, Food Standards Agency
+- National Maritime Museum, Triumph Motorcycles, Calor Gas, Mortgage Advice Bureau, Zenith Intelligent Vehicle Solutions
+
+## Selected Writing
+
+### Embedding & Retrieval (2025)
+- Selection and Ensemble Strategies for Embedding Retrieval
+- Match Embedding Dimensions to Your Domain, Not Defaults
+
+### LLM & RAG Systems (2025)
+- Pushing the Boundaries: Advanced Techniques for Production LLM & RAG Systems
+- Improving LLM & RAG Systems: Essential Concepts for Practitioners
+- Making Sense of AI Terminology: LLM & RAG Basics That Matter
+- Speculative Decoding: Using LLMs Efficiently
+- How to Validate AI Solutions Before Committing Resources
+
+### AI Strategy & Agents (2025)
+- AI Signal: Beyond the Hype
+- Open-Weight LLMs: A Strategic Advantage for Enterprise AI
+- Building a Multi-Agent Stock Research Assistant with LangGraph and Google Gemini
+- The Human is the Agent: How SolveIt Changed My Programming Journey After 25 Years
+
+### Generative AI (2023-2025)
+- Latent Diffusion and Perceptual Latent Loss (novel approach, later continued by Meta)
+- How to Guide Stable Diffusion with VGG Features, Style Loss, and Latent MAE
+- Building a Context and Style Aware Image Search Engine: Combining CLIP, Stable Diffusion, and FAISS
+
+### Deep Learning & Computer Vision (2019-2021)
+- Deep learning based super resolution, without using a GAN
+- Super Resolution: Adobe Photoshop versus leading Deep Neural Networks
+- U-Nets with ResNet Encoders and cross connections
+- U-Net deep learning colourisation of greyscale images
+- Loss functions based on feature activation and style loss
+- Deep learning image enhancement insights on loss function engineering
+- Super Convergence with Cyclical Learning Rates in TensorFlow
+
+### Deep Learning Fundamentals (2019)
+- An introduction to Convolutional Neural Networks
+- Recurrent Neural Networks and Natural Language Processing
+- The basics of Deep Neural Networks
+- Tabular data analysis with deep neural nets
+- Random forests — a free lunch that's not cursed
+
+## Technical Reviewing
+
+- Imagination Technologies Global Edge AI Education Project (with Madrid and Peking Universities)
+- Springer/Apress "PyTorch Recipes: A Problem-Solution Approach" (2nd edition)
+
+## Research & Publications
+
+- Embedding Dimension Optimisation (2025): Empirical research showing embeddings 4-6x larger than necessary for many domains
+- Embedding Retrieval Strategies (2025): Selection and ensemble approaches for embedding retrieval
+- Perceptual Latent Loss (GitHub June 2023, blog Nov 2023): Coined the term and approach 18 months before Meta's "Boosting Latent Diffusion with Perceptual Objectives" (Nov 2024)
+- Loss Function Engineering for Image Enhancement (2019-2020): Systematic comparison of loss metrics; novel finding that gram matrix (style) loss alone enables effective colourisation; spectral/weight normalization effectiveness outside GANs
+- Super Resolution Benchmarking (2021): Comparative analysis of Adobe Photoshop vs deep neural network approaches
+- Top of leaderboard: Jeremy Howard's Fashion-MNIST challenge (95.8% accuracy)
+- Cited thesis (2000): Evolution of Cellular Automata for Image Processing using Genetic Algorithms
+
+## Conference Presentations
+
+- International Working Dog Conference (IWDC) 2025: AI robotics solutions for working dogs
+
+## Contact
+
+- Email: chris@thoughtvector.net
+- Company: Thought Vector Limited
